@@ -1,2 +1,2 @@
 # Leetcode
-olution to Find K Closest Elements proble
+Solution to Find K Closest Elements proble
